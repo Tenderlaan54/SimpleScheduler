@@ -1,5 +1,5 @@
 {
-  "name": "Simple Scheduler",
+  "name": "Schema's",
   "version": "0.17",
   "slug": "simplescheduler",
   "description": "Simple timer on weekly base",
@@ -16,16 +16,16 @@
   "map": [ "share:rw" ],  
   "options": {
 	"translations": {
-		"text_monday": "Monday",
-		"text_tuesday": "Tuesday",
-		"text_wednesday": "Wednesday",
-		"text_thursday": "Thursday",
-		"text_friday": "Friday",
-		"text_saturday": "Saturday",
-		"text_sunday": "Sunday",
-		"text_ON": "Turn ON",
-		"text_OFF": "Turn OFF",
-		"text_save": "Save",
+		"text_monday": "Maandag",
+		"text_tuesday": "dinsdag",
+		"text_wednesday": "woensdag",
+		"text_thursday": "Donderdag",
+		"text_friday": "Vrijdaf",
+		"text_saturday": "Zaterdag",
+		"text_sunday": "Zondag",
+		"text_ON": "Aan",
+		"text_OFF": "Uit",
+		"text_save": "Opslaan",
 		"text_enabled": "Enabled",
 		"text_device": "Device"
 	},
